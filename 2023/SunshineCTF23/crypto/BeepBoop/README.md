@@ -40,7 +40,7 @@ Reading our new `booped.txt` file we now get the following output:
 ```
 00001010 01100110 01101000 01100001 01111011 01110010 01101011 01100111 01110010 01100101 01111010 01110110 01100001 01101110 01100111 01110010 00101101 01110010 01101011 01100111 01110010 01100101 01111010 01110110 01100001 01101110 01100111 01110010 00101101 01110010 01101011 01100111 01110010 01100101 01111010 01110110 01100001 01101110 01100111 01110010 01111101
 ```
-I use https://www.rapidtables.com/convert/number/binary-to-ascii.html to convert our binary to text to get the following:
+Using https://www.rapidtables.com/convert/number/binary-to-ascii.html to convert our binary to text we get the following:
 
   `fha{rkgrezvangr-rkgrezvangr-rkgrezvangr}` 
 
