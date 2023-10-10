@@ -49,7 +49,6 @@ Seeing this output and knowing the flag format is `sun{}` we can deducde that `f
 Running the following gets us our flag:
 ```bash
 $ echo 'fha{rkgrezvangr-rkgrezvangr-rkgrezvangr}' | rot13
-sun{exterminate-exterminate-exterminate}
 ```
 
 FLAG: `sun{exterminate-exterminate-exterminate}`
