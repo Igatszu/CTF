@@ -1,6 +1,10 @@
-**Challenge:**
+# CSAW-2023
+
+## 1black0white
 
 ![Alt text](challenge.png)
+
+### Solution
 
 We were given a .txt file to work with along with a clue in the challenge description about it being a possible QR code. Opening the file we were able to view the following numbers:
 
